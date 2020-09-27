@@ -1,0 +1,7 @@
+## Interface: 80300
+## Title: Transmorpher Tooltip
+## Author: Beren a.k.a Grimharvest
+## Version: 0.1
+embeds.xml
+Appearances.lua
+Main.lua
